@@ -1,4 +1,4 @@
-```yaml
+yaml
 version: 0.2
 
 phases:
@@ -24,4 +24,3 @@ artifacts:
     - target/*.war
   discard-paths: no
 
-```
